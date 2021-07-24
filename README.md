@@ -6,11 +6,14 @@ COURSE 1 - AERIAL ROBOTICS
 WEEK 1
 + Introduction
 + Energetics and System Design
+
 WEEK 2
 + Quadrotor Kinematics
 + Quadrotor Dynamics
+
 WEEK 3
 + Control
 + Planning
+
 WEEK 4
 + Onboard Estimations, Nonlinear Control and Swarm
